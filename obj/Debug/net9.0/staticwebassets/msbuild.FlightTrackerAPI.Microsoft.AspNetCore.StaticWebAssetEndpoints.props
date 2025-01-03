@@ -1,0 +1,88 @@
+﻿<Project>
+  <ItemGroup>
+    <StaticWebAssetEndpoint Include="_content/FlightTrackerAPI/css/styles.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-KeLl26BR7gOITRb9vrMfgSnt4cL5uMBLq95ncSLD8qI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"2623"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KeLl26BR7gOITRb9vrMfgSnt4cL5uMBLq95ncSLD8qI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 22:26:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FlightTrackerAPI/css/styles.r35sh5riea.css">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\css\styles.css'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"r35sh5riea"},{"Name":"integrity","Value":"sha256-KeLl26BR7gOITRb9vrMfgSnt4cL5uMBLq95ncSLD8qI="},{"Name":"label","Value":"_content/FlightTrackerAPI/css/styles.css"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"2623"},{"Name":"Content-Type","Value":"text/css"},{"Name":"ETag","Value":"\u0022KeLl26BR7gOITRb9vrMfgSnt4cL5uMBLq95ncSLD8qI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 22:26:23 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FlightTrackerAPI/images/aircraft/DEFAULT.ma3n6m850v.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\aircraft\DEFAULT.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ma3n6m850v"},{"Name":"integrity","Value":"sha256-bg6AESN\u002B9LERn5nEgP7jhQ4o9X1sYB43yJZLSPs6PjE="},{"Name":"label","Value":"_content/FlightTrackerAPI/images/aircraft/DEFAULT.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"19606"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022bg6AESN\u002B9LERn5nEgP7jhQ4o9X1sYB43yJZLSPs6PjE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 16:10:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FlightTrackerAPI/images/aircraft/DEFAULT.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\aircraft\DEFAULT.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-bg6AESN\u002B9LERn5nEgP7jhQ4o9X1sYB43yJZLSPs6PjE="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"19606"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022bg6AESN\u002B9LERn5nEgP7jhQ4o9X1sYB43yJZLSPs6PjE=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 16:10:19 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FlightTrackerAPI/images/plane-icon.8f6o7avgi7.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\plane-icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"8f6o7avgi7"},{"Name":"integrity","Value":"sha256-hPVzaXfnTRsfdnbFfrgz3dDY9FUO0OOCsPZlIx22EMo="},{"Name":"label","Value":"_content/FlightTrackerAPI/images/plane-icon.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8699"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hPVzaXfnTRsfdnbFfrgz3dDY9FUO0OOCsPZlIx22EMo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 20:52:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FlightTrackerAPI/images/plane-icon.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\plane-icon.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-hPVzaXfnTRsfdnbFfrgz3dDY9FUO0OOCsPZlIx22EMo="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8699"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022hPVzaXfnTRsfdnbFfrgz3dDY9FUO0OOCsPZlIx22EMo=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 20:52:35 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FlightTrackerAPI/images/plane-selected.hxh1oieeb3.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\plane-selected.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"hxh1oieeb3"},{"Name":"integrity","Value":"sha256-BRHJNKuGWHZHPIZEfCMnPnFpsdOQzaYg6AtIdfj0/6o="},{"Name":"label","Value":"_content/FlightTrackerAPI/images/plane-selected.png"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"8694"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022BRHJNKuGWHZHPIZEfCMnPnFpsdOQzaYg6AtIdfj0/6o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 22:11:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FlightTrackerAPI/images/plane-selected.png">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\images\plane-selected.png'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-BRHJNKuGWHZHPIZEfCMnPnFpsdOQzaYg6AtIdfj0/6o="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=3600, must-revalidate"},{"Name":"Content-Length","Value":"8694"},{"Name":"Content-Type","Value":"image/png"},{"Name":"ETag","Value":"\u0022BRHJNKuGWHZHPIZEfCMnPnFpsdOQzaYg6AtIdfj0/6o=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 22:11:20 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FlightTrackerAPI/index.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-Qeke/MkBtEwqMSDfU\u002BnYJQObGbDrkThEJH0S1MRIiZI="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1425"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Qeke/MkBtEwqMSDfU\u002BnYJQObGbDrkThEJH0S1MRIiZI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 22:02:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FlightTrackerAPI/index.xklsxb81p2.html">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\index.html'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"xklsxb81p2"},{"Name":"integrity","Value":"sha256-Qeke/MkBtEwqMSDfU\u002BnYJQObGbDrkThEJH0S1MRIiZI="},{"Name":"label","Value":"_content/FlightTrackerAPI/index.html"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1425"},{"Name":"Content-Type","Value":"text/html"},{"Name":"ETag","Value":"\u0022Qeke/MkBtEwqMSDfU\u002BnYJQObGbDrkThEJH0S1MRIiZI=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 22:02:48 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FlightTrackerAPI/js/map.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\map.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-AjY9RvDwWO6TKp/91Ps4wQuEfE3rbgn8Q6R9Ft3LcKU="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"1048"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022AjY9RvDwWO6TKp/91Ps4wQuEfE3rbgn8Q6R9Ft3LcKU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 22:02:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FlightTrackerAPI/js/map.mym7iy09qz.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\map.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"mym7iy09qz"},{"Name":"integrity","Value":"sha256-AjY9RvDwWO6TKp/91Ps4wQuEfE3rbgn8Q6R9Ft3LcKU="},{"Name":"label","Value":"_content/FlightTrackerAPI/js/map.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"1048"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022AjY9RvDwWO6TKp/91Ps4wQuEfE3rbgn8Q6R9Ft3LcKU=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 22:02:27 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FlightTrackerAPI/js/tracker.ibpwzmepzp.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\tracker.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"fingerprint","Value":"ibpwzmepzp"},{"Name":"integrity","Value":"sha256-LoPg\u002BC87cBdPl5a/43EOmOKDHAgvorlVXMnTqay9ZGM="},{"Name":"label","Value":"_content/FlightTrackerAPI/js/tracker.js"}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"max-age=31536000, immutable"},{"Name":"Content-Length","Value":"6905"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022LoPg\u002BC87cBdPl5a/43EOmOKDHAgvorlVXMnTqay9ZGM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 22:25:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+    <StaticWebAssetEndpoint Include="_content/FlightTrackerAPI/js/tracker.js">
+      <AssetFile>$([System.IO.Path]::GetFullPath('$(MSBuildThisFileDirectory)..\staticwebassets\js\tracker.js'))</AssetFile>
+      <Selectors><![CDATA[[]]]></Selectors>
+      <EndpointProperties><![CDATA[[{"Name":"integrity","Value":"sha256-LoPg\u002BC87cBdPl5a/43EOmOKDHAgvorlVXMnTqay9ZGM="}]]]></EndpointProperties>
+      <ResponseHeaders><![CDATA[[{"Name":"Accept-Ranges","Value":"bytes"},{"Name":"Cache-Control","Value":"no-cache"},{"Name":"Content-Length","Value":"6905"},{"Name":"Content-Type","Value":"text/javascript"},{"Name":"ETag","Value":"\u0022LoPg\u002BC87cBdPl5a/43EOmOKDHAgvorlVXMnTqay9ZGM=\u0022"},{"Name":"Last-Modified","Value":"Fri, 03 Jan 2025 22:25:21 GMT"}]]]></ResponseHeaders>
+    </StaticWebAssetEndpoint>
+  </ItemGroup>
+</Project>

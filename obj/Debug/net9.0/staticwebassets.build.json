@@ -1,0 +1,1691 @@
+{
+  "Version": 1,
+  "Hash": "CiniIVBAoOg94tUmBf46TSenbmI/Uyt4a88X1qNjBSU=",
+  "Source": "FlightTrackerAPI",
+  "BasePath": "_content/FlightTrackerAPI",
+  "Mode": "Default",
+  "ManifestType": "Build",
+  "ReferencedProjectsConfiguration": [],
+  "DiscoveryPatterns": [
+    {
+      "Name": "FlightTrackerAPI\\wwwroot",
+      "Source": "FlightTrackerAPI",
+      "ContentRoot": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\",
+      "BasePath": "_content/FlightTrackerAPI",
+      "Pattern": "**"
+    }
+  ],
+  "Assets": [
+    {
+      "Identity": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\2p9v4em0yn-ibpwzmepzp.gz",
+      "SourceId": "FlightTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FlightTrackerAPI",
+      "RelativePath": "js/tracker#[.{fingerprint=ibpwzmepzp}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\js\\tracker.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "a8s0o5txov",
+      "Integrity": "FhXkL3lZFE2zRlEZ3x2wEbUVjiv4fTElZ0K5YYFeFjs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\js\\tracker.js"
+    },
+    {
+      "Identity": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\34f5b91x0v-r35sh5riea.gz",
+      "SourceId": "FlightTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FlightTrackerAPI",
+      "RelativePath": "css/styles#[.{fingerprint=r35sh5riea}]?.css.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\css\\styles.css",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "hlt4yliyn8",
+      "Integrity": "Kxs70rWxje6xVjYM6GiJiB+PYPAuShwDkfiBWiyjltE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\5venp2p7i5-mym7iy09qz.gz",
+      "SourceId": "FlightTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FlightTrackerAPI",
+      "RelativePath": "js/map#[.{fingerprint=mym7iy09qz}]?.js.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\js\\map.js",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "k4nx2njqvq",
+      "Integrity": "VKGXRguJADJGQk9oF8U9PEPKx7HPE7JBcXtuCounNjs=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\js\\map.js"
+    },
+    {
+      "Identity": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\sjoi3jb36r-xklsxb81p2.gz",
+      "SourceId": "FlightTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\",
+      "BasePath": "_content/FlightTrackerAPI",
+      "RelativePath": "index#[.{fingerprint=xklsxb81p2}]?.html.gz",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Alternative",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\index.html",
+      "AssetTraitName": "Content-Encoding",
+      "AssetTraitValue": "gzip",
+      "Fingerprint": "eok7aj3m1t",
+      "Integrity": "knU0civncfmz4D9zhkoxAZ/4LzdRuACj7GQg15ohmEg=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\css\\styles.css",
+      "SourceId": "FlightTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\",
+      "BasePath": "_content/FlightTrackerAPI",
+      "RelativePath": "css/styles#[.{fingerprint}]?.css",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "r35sh5riea",
+      "Integrity": "KeLl26BR7gOITRb9vrMfgSnt4cL5uMBLq95ncSLD8qI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\css\\styles.css"
+    },
+    {
+      "Identity": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\images\\aircraft\\DEFAULT.png",
+      "SourceId": "FlightTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\",
+      "BasePath": "_content/FlightTrackerAPI",
+      "RelativePath": "images/aircraft/DEFAULT#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ma3n6m850v",
+      "Integrity": "bg6AESN+9LERn5nEgP7jhQ4o9X1sYB43yJZLSPs6PjE=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\aircraft\\DEFAULT.png"
+    },
+    {
+      "Identity": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\images\\plane-icon.png",
+      "SourceId": "FlightTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\",
+      "BasePath": "_content/FlightTrackerAPI",
+      "RelativePath": "images/plane-icon#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "8f6o7avgi7",
+      "Integrity": "hPVzaXfnTRsfdnbFfrgz3dDY9FUO0OOCsPZlIx22EMo=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\plane-icon.png"
+    },
+    {
+      "Identity": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\images\\plane-selected.png",
+      "SourceId": "FlightTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\",
+      "BasePath": "_content/FlightTrackerAPI",
+      "RelativePath": "images/plane-selected#[.{fingerprint}]?.png",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "hxh1oieeb3",
+      "Integrity": "BRHJNKuGWHZHPIZEfCMnPnFpsdOQzaYg6AtIdfj0/6o=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\images\\plane-selected.png"
+    },
+    {
+      "Identity": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\index.html",
+      "SourceId": "FlightTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\",
+      "BasePath": "_content/FlightTrackerAPI",
+      "RelativePath": "index#[.{fingerprint}]?.html",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "xklsxb81p2",
+      "Integrity": "Qeke/MkBtEwqMSDfU+nYJQObGbDrkThEJH0S1MRIiZI=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\index.html"
+    },
+    {
+      "Identity": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\js\\map.js",
+      "SourceId": "FlightTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\",
+      "BasePath": "_content/FlightTrackerAPI",
+      "RelativePath": "js/map#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "mym7iy09qz",
+      "Integrity": "AjY9RvDwWO6TKp/91Ps4wQuEfE3rbgn8Q6R9Ft3LcKU=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\map.js"
+    },
+    {
+      "Identity": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\js\\tracker.js",
+      "SourceId": "FlightTrackerAPI",
+      "SourceType": "Discovered",
+      "ContentRoot": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\",
+      "BasePath": "_content/FlightTrackerAPI",
+      "RelativePath": "js/tracker#[.{fingerprint}]?.js",
+      "AssetKind": "All",
+      "AssetMode": "All",
+      "AssetRole": "Primary",
+      "AssetMergeBehavior": "",
+      "AssetMergeSource": "",
+      "RelatedAsset": "",
+      "AssetTraitName": "",
+      "AssetTraitValue": "",
+      "Fingerprint": "ibpwzmepzp",
+      "Integrity": "LoPg+C87cBdPl5a/43EOmOKDHAgvorlVXMnTqay9ZGM=",
+      "CopyToOutputDirectory": "Never",
+      "CopyToPublishDirectory": "PreserveNewest",
+      "OriginalItemSpec": "wwwroot\\js\\tracker.js"
+    }
+  ],
+  "Endpoints": [
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\34f5b91x0v-r35sh5riea.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001216545012"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "821"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kxs70rWxje6xVjYM6GiJiB+PYPAuShwDkfiBWiyjltE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KeLl26BR7gOITRb9vrMfgSnt4cL5uMBLq95ncSLD8qI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KeLl26BR7gOITRb9vrMfgSnt4cL5uMBLq95ncSLD8qI="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KeLl26BR7gOITRb9vrMfgSnt4cL5uMBLq95ncSLD8qI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-KeLl26BR7gOITRb9vrMfgSnt4cL5uMBLq95ncSLD8qI="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.css.gz",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\34f5b91x0v-r35sh5riea.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kxs70rWxje6xVjYM6GiJiB+PYPAuShwDkfiBWiyjltE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kxs70rWxje6xVjYM6GiJiB+PYPAuShwDkfiBWiyjltE="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.r35sh5riea.css",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\34f5b91x0v-r35sh5riea.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001216545012"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "821"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kxs70rWxje6xVjYM6GiJiB+PYPAuShwDkfiBWiyjltE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"KeLl26BR7gOITRb9vrMfgSnt4cL5uMBLq95ncSLD8qI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r35sh5riea"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KeLl26BR7gOITRb9vrMfgSnt4cL5uMBLq95ncSLD8qI="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.r35sh5riea.css",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\css\\styles.css",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "2623"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"KeLl26BR7gOITRb9vrMfgSnt4cL5uMBLq95ncSLD8qI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r35sh5riea"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-KeLl26BR7gOITRb9vrMfgSnt4cL5uMBLq95ncSLD8qI="
+        }
+      ]
+    },
+    {
+      "Route": "css/styles.r35sh5riea.css.gz",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\34f5b91x0v-r35sh5riea.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "821"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/css"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Kxs70rWxje6xVjYM6GiJiB+PYPAuShwDkfiBWiyjltE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:26:23 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "r35sh5riea"
+        },
+        {
+          "Name": "label",
+          "Value": "css/styles.css.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Kxs70rWxje6xVjYM6GiJiB+PYPAuShwDkfiBWiyjltE="
+        }
+      ]
+    },
+    {
+      "Route": "images/aircraft/DEFAULT.ma3n6m850v.png",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\images\\aircraft\\DEFAULT.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bg6AESN+9LERn5nEgP7jhQ4o9X1sYB43yJZLSPs6PjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 16:10:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ma3n6m850v"
+        },
+        {
+          "Name": "label",
+          "Value": "images/aircraft/DEFAULT.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-bg6AESN+9LERn5nEgP7jhQ4o9X1sYB43yJZLSPs6PjE="
+        }
+      ]
+    },
+    {
+      "Route": "images/aircraft/DEFAULT.png",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\images\\aircraft\\DEFAULT.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "19606"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"bg6AESN+9LERn5nEgP7jhQ4o9X1sYB43yJZLSPs6PjE=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 16:10:19 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-bg6AESN+9LERn5nEgP7jhQ4o9X1sYB43yJZLSPs6PjE="
+        }
+      ]
+    },
+    {
+      "Route": "images/plane-icon.8f6o7avgi7.png",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\images\\plane-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hPVzaXfnTRsfdnbFfrgz3dDY9FUO0OOCsPZlIx22EMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 20:52:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "8f6o7avgi7"
+        },
+        {
+          "Name": "label",
+          "Value": "images/plane-icon.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-hPVzaXfnTRsfdnbFfrgz3dDY9FUO0OOCsPZlIx22EMo="
+        }
+      ]
+    },
+    {
+      "Route": "images/plane-icon.png",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\images\\plane-icon.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8699"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"hPVzaXfnTRsfdnbFfrgz3dDY9FUO0OOCsPZlIx22EMo=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 20:52:35 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-hPVzaXfnTRsfdnbFfrgz3dDY9FUO0OOCsPZlIx22EMo="
+        }
+      ]
+    },
+    {
+      "Route": "images/plane-selected.hxh1oieeb3.png",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\images\\plane-selected.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRHJNKuGWHZHPIZEfCMnPnFpsdOQzaYg6AtIdfj0/6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:11:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "hxh1oieeb3"
+        },
+        {
+          "Name": "label",
+          "Value": "images/plane-selected.png"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRHJNKuGWHZHPIZEfCMnPnFpsdOQzaYg6AtIdfj0/6o="
+        }
+      ]
+    },
+    {
+      "Route": "images/plane-selected.png",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\images\\plane-selected.png",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "8694"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "image/png"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"BRHJNKuGWHZHPIZEfCMnPnFpsdOQzaYg6AtIdfj0/6o=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:11:20 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=3600, must-revalidate"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-BRHJNKuGWHZHPIZEfCMnPnFpsdOQzaYg6AtIdfj0/6o="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\sjoi3jb36r-xklsxb81p2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001769911504"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"knU0civncfmz4D9zhkoxAZ/4LzdRuACj7GQg15ohmEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:02:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Qeke/MkBtEwqMSDfU+nYJQObGbDrkThEJH0S1MRIiZI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qeke/MkBtEwqMSDfU+nYJQObGbDrkThEJH0S1MRIiZI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qeke/MkBtEwqMSDfU+nYJQObGbDrkThEJH0S1MRIiZI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:02:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qeke/MkBtEwqMSDfU+nYJQObGbDrkThEJH0S1MRIiZI="
+        }
+      ]
+    },
+    {
+      "Route": "index.html.gz",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\sjoi3jb36r-xklsxb81p2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"knU0civncfmz4D9zhkoxAZ/4LzdRuACj7GQg15ohmEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:02:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-knU0civncfmz4D9zhkoxAZ/4LzdRuACj7GQg15ohmEg="
+        }
+      ]
+    },
+    {
+      "Route": "index.xklsxb81p2.html",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\sjoi3jb36r-xklsxb81p2.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001769911504"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"knU0civncfmz4D9zhkoxAZ/4LzdRuACj7GQg15ohmEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:02:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"Qeke/MkBtEwqMSDfU+nYJQObGbDrkThEJH0S1MRIiZI=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xklsxb81p2"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qeke/MkBtEwqMSDfU+nYJQObGbDrkThEJH0S1MRIiZI="
+        }
+      ]
+    },
+    {
+      "Route": "index.xklsxb81p2.html",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\index.html",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1425"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"Qeke/MkBtEwqMSDfU+nYJQObGbDrkThEJH0S1MRIiZI=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:02:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xklsxb81p2"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-Qeke/MkBtEwqMSDfU+nYJQObGbDrkThEJH0S1MRIiZI="
+        }
+      ]
+    },
+    {
+      "Route": "index.xklsxb81p2.html.gz",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\sjoi3jb36r-xklsxb81p2.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "564"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/html"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"knU0civncfmz4D9zhkoxAZ/4LzdRuACj7GQg15ohmEg=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:02:48 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "xklsxb81p2"
+        },
+        {
+          "Name": "label",
+          "Value": "index.html.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-knU0civncfmz4D9zhkoxAZ/4LzdRuACj7GQg15ohmEg="
+        }
+      ]
+    },
+    {
+      "Route": "js/map.js",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\5venp2p7i5-mym7iy09qz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001683501684"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "593"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VKGXRguJADJGQk9oF8U9PEPKx7HPE7JBcXtuCounNjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:02:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AjY9RvDwWO6TKp/91Ps4wQuEfE3rbgn8Q6R9Ft3LcKU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AjY9RvDwWO6TKp/91Ps4wQuEfE3rbgn8Q6R9Ft3LcKU="
+        }
+      ]
+    },
+    {
+      "Route": "js/map.js",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\js\\map.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AjY9RvDwWO6TKp/91Ps4wQuEfE3rbgn8Q6R9Ft3LcKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:02:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-AjY9RvDwWO6TKp/91Ps4wQuEfE3rbgn8Q6R9Ft3LcKU="
+        }
+      ]
+    },
+    {
+      "Route": "js/map.js.gz",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\5venp2p7i5-mym7iy09qz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VKGXRguJADJGQk9oF8U9PEPKx7HPE7JBcXtuCounNjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:02:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-VKGXRguJADJGQk9oF8U9PEPKx7HPE7JBcXtuCounNjs="
+        }
+      ]
+    },
+    {
+      "Route": "js/map.mym7iy09qz.js",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\5venp2p7i5-mym7iy09qz.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.001683501684"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "593"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VKGXRguJADJGQk9oF8U9PEPKx7HPE7JBcXtuCounNjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:02:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"AjY9RvDwWO6TKp/91Ps4wQuEfE3rbgn8Q6R9Ft3LcKU=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mym7iy09qz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/map.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AjY9RvDwWO6TKp/91Ps4wQuEfE3rbgn8Q6R9Ft3LcKU="
+        }
+      ]
+    },
+    {
+      "Route": "js/map.mym7iy09qz.js",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\js\\map.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1048"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"AjY9RvDwWO6TKp/91Ps4wQuEfE3rbgn8Q6R9Ft3LcKU=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:02:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mym7iy09qz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/map.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-AjY9RvDwWO6TKp/91Ps4wQuEfE3rbgn8Q6R9Ft3LcKU="
+        }
+      ]
+    },
+    {
+      "Route": "js/map.mym7iy09qz.js.gz",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\5venp2p7i5-mym7iy09qz.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "593"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"VKGXRguJADJGQk9oF8U9PEPKx7HPE7JBcXtuCounNjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:02:27 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "mym7iy09qz"
+        },
+        {
+          "Name": "label",
+          "Value": "js/map.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-VKGXRguJADJGQk9oF8U9PEPKx7HPE7JBcXtuCounNjs="
+        }
+      ]
+    },
+    {
+      "Route": "js/tracker.ibpwzmepzp.js",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\2p9v4em0yn-ibpwzmepzp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000541418517"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1846"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FhXkL3lZFE2zRlEZ3x2wEbUVjiv4fTElZ0K5YYFeFjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:25:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LoPg+C87cBdPl5a/43EOmOKDHAgvorlVXMnTqay9ZGM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ibpwzmepzp"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tracker.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LoPg+C87cBdPl5a/43EOmOKDHAgvorlVXMnTqay9ZGM="
+        }
+      ]
+    },
+    {
+      "Route": "js/tracker.ibpwzmepzp.js",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\js\\tracker.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LoPg+C87cBdPl5a/43EOmOKDHAgvorlVXMnTqay9ZGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:25:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ibpwzmepzp"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tracker.js"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-LoPg+C87cBdPl5a/43EOmOKDHAgvorlVXMnTqay9ZGM="
+        }
+      ]
+    },
+    {
+      "Route": "js/tracker.ibpwzmepzp.js.gz",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\2p9v4em0yn-ibpwzmepzp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1846"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FhXkL3lZFE2zRlEZ3x2wEbUVjiv4fTElZ0K5YYFeFjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:25:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "max-age=31536000, immutable"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "fingerprint",
+          "Value": "ibpwzmepzp"
+        },
+        {
+          "Name": "label",
+          "Value": "js/tracker.js.gz"
+        },
+        {
+          "Name": "integrity",
+          "Value": "sha256-FhXkL3lZFE2zRlEZ3x2wEbUVjiv4fTElZ0K5YYFeFjs="
+        }
+      ]
+    },
+    {
+      "Route": "js/tracker.js",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\2p9v4em0yn-ibpwzmepzp.gz",
+      "Selectors": [
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip",
+          "Quality": "0.000541418517"
+        }
+      ],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1846"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FhXkL3lZFE2zRlEZ3x2wEbUVjiv4fTElZ0K5YYFeFjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:25:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "W/\"LoPg+C87cBdPl5a/43EOmOKDHAgvorlVXMnTqay9ZGM=\""
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LoPg+C87cBdPl5a/43EOmOKDHAgvorlVXMnTqay9ZGM="
+        }
+      ]
+    },
+    {
+      "Route": "js/tracker.js",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\js\\tracker.js",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "6905"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"LoPg+C87cBdPl5a/43EOmOKDHAgvorlVXMnTqay9ZGM=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:25:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-LoPg+C87cBdPl5a/43EOmOKDHAgvorlVXMnTqay9ZGM="
+        }
+      ]
+    },
+    {
+      "Route": "js/tracker.js.gz",
+      "AssetFile": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\obj\\Debug\\net9.0\\compressed\\2p9v4em0yn-ibpwzmepzp.gz",
+      "Selectors": [],
+      "ResponseHeaders": [
+        {
+          "Name": "Accept-Ranges",
+          "Value": "bytes"
+        },
+        {
+          "Name": "Content-Length",
+          "Value": "1846"
+        },
+        {
+          "Name": "Content-Type",
+          "Value": "text/javascript"
+        },
+        {
+          "Name": "ETag",
+          "Value": "\"FhXkL3lZFE2zRlEZ3x2wEbUVjiv4fTElZ0K5YYFeFjs=\""
+        },
+        {
+          "Name": "Last-Modified",
+          "Value": "Fri, 03 Jan 2025 22:25:21 GMT"
+        },
+        {
+          "Name": "Cache-Control",
+          "Value": "no-cache"
+        },
+        {
+          "Name": "Content-Encoding",
+          "Value": "gzip"
+        },
+        {
+          "Name": "Vary",
+          "Value": "Content-Encoding"
+        }
+      ],
+      "EndpointProperties": [
+        {
+          "Name": "integrity",
+          "Value": "sha256-FhXkL3lZFE2zRlEZ3x2wEbUVjiv4fTElZ0K5YYFeFjs="
+        }
+      ]
+    }
+  ]
+}

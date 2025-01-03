@@ -1,0 +1,12 @@
+[
+  {
+    "ContainingType": "FlightTrackerAPI.Controllers.FlightController",
+    "Method": "GetFlights",
+    "RelativePath": "api/Flight",
+    "HttpMethod": "GET",
+    "IsController": true,
+    "Order": 0,
+    "Parameters": [],
+    "ReturnTypes": []
+  }
+]

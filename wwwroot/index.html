@@ -1,0 +1,37 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Airspace Tracker</title>
+    <link rel="stylesheet" href="https://unpkg.com/leaflet@1.7.1/dist/leaflet.css" />
+    <link rel="stylesheet" href="/css/styles.css" /> 
+    <style>
+        #map {
+            height: 100vh; /* Fullscreen map */
+        }
+    </style>
+</head>
+<body>
+    <div id="map"></div>
+
+
+    <div id="info-panel" class="info-panel hidden">
+        <button id="close-info-panel" class="close-button">×</button>
+        <div id="flight-details">
+            <h3>Flight Details</h3>
+            <div id="info-image" style="margin-bottom: 10px;"></div>
+            <p><b>Callsign:</b> <span id="info-flight"></span></p>
+            <p><b>Aircraft Type:</b> <span id="info-desc"></span></p>
+            <p><b>Barometric Altitude:</b> <span id="info-altitude"></span> ft</p>
+            <p><b>Ground Speed:</b> <span id="info-speed"></span> kts</p>
+            <p><b>Track:</b> <span id="info-track"></span> °</p>
+            <p><b>Squawk:</b> <span id="info-squawk"></span></p>
+            <p><b>Registration:</b> <span id="info-registration"></span></p>
+        </div>
+    </div>
+
+    <script src="https://unpkg.com/leaflet@1.7.1/dist/leaflet.js"></script>
+    <script src="https://cdn.jsdelivr.net/gh/bbecquet/Leaflet.RotatedMarker/leaflet.rotatedMarker.js"></script>
+    <script src="/js/map.js"></script>
+    <script src="/js/tracker.js"></script>
+</body>
+</html>

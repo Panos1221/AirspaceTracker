@@ -1,0 +1,137 @@
+﻿.leaflet-popup-content {
+    font-family: Arial, sans-serif;
+    font-size: 14px;
+    line-height: 1.5;
+}
+
+    .leaflet-popup-content b {
+        color: #333;
+        font-size: 14px;
+    }
+
+    .leaflet-popup-content img {
+        width: 120px;
+        height: auto; 
+        margin-top: 10px;
+        border: 1px solid #ddd; 
+        border-radius: 4px; 
+        box-shadow: 2px 2px 5px rgba(0, 0, 0, 0.3); 
+    }
+
+    .leaflet-popup-content p {
+        margin: 5px 0;
+    }
+
+.leaflet-popup-content-wrapper {
+    padding: 10px;
+    background-color: #f9f9f9; 
+    border-radius: 8px; 
+}
+
+.leaflet-tooltip {
+    font-weight: bold;
+    font-size: 12px;
+    background: rgba(0, 0, 0, 0.8);
+    color: #fff;
+    padding: 5px 8px;
+    border-radius: 4px;
+}
+
+
+#info-panel {
+    background-color: #1e1e2f;
+    color: #e0e0e0;
+    border-radius: 10px;
+    padding: 15px;
+    width: 300px;
+    position: absolute;
+    top: 10%;
+    left: 10px;
+    z-index: 1000;
+    box-shadow: 0px 4px 10px rgba(0, 0, 0, 0.8);
+    font-family: 'Arial', sans-serif;
+    overflow: hidden;
+    opacity: 1; /* Fully visible */
+    visibility: visible; /* Fully visible */
+    transition: opacity 0.3s ease, visibility 0.3s ease;
+}
+
+    /* Hidden state */
+    #info-panel.hidden {
+        opacity: 0; /* Fully transparent */
+        visibility: hidden;
+    }
+
+/* Slide-in animation */
+@keyframes slideIn {
+    from {
+        opacity: 0;
+        transform: translateX(-100%);
+    }
+
+    to {
+        opacity: 1;
+        transform: translateX(0);
+    }
+}
+
+/* Slide-out animation */
+@keyframes slideOut {
+    from {
+        opacity: 1;
+        transform: translateX(0);
+    }
+
+    to {
+        opacity: 0;
+        transform: translateX(-100%);
+    }
+}
+
+#info-panel.slide-out {
+    animation: slideOut 0.3s ease-out;
+    display: block;
+}
+
+#close-info-panel {
+    background: none;
+    border: none;
+    color: #e0e0e0;
+    font-size: 18px;
+    cursor: pointer;
+    position: absolute;
+    top: 10px;
+    right: 10px;
+}
+
+    #close-info-panel:hover {
+        color: #ff5a5a;
+    }
+
+/* Flight details styling */
+#flight-details h3 {
+    font-size: 18px;
+    color: #ffcc00;
+    margin-bottom: 10px;
+}
+
+#flight-details p {
+    font-size: 14px;
+    margin: 5px 0;
+    line-height: 1.6;
+}
+
+#flight-details b {
+    color: #ffcc00;
+}
+
+#info-image img {
+    width: 100%;
+    border-radius: 10px;
+    margin-bottom: 10px;
+    border: 1px solid #444;
+}
+
+#info-panel:hover {
+    box-shadow: 0px 6px 15px rgba(0, 0, 0, 0.9);
+}

@@ -1,0 +1,53 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\css\\styles.css",
+      "PackagePath": "staticwebassets\\css\\styles.css"
+    },
+    {
+      "Id": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\images\\aircraft\\DEFAULT.png",
+      "PackagePath": "staticwebassets\\images\\aircraft\\DEFAULT.png"
+    },
+    {
+      "Id": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\images\\plane-icon.png",
+      "PackagePath": "staticwebassets\\images\\plane-icon.png"
+    },
+    {
+      "Id": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\images\\plane-selected.png",
+      "PackagePath": "staticwebassets\\images\\plane-selected.png"
+    },
+    {
+      "Id": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\index.html",
+      "PackagePath": "staticwebassets\\index.html"
+    },
+    {
+      "Id": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\js\\map.js",
+      "PackagePath": "staticwebassets\\js\\map.js"
+    },
+    {
+      "Id": "C:\\Users\\pansa\\source\\repos\\FlightTrackerAPI\\FlightTrackerAPI\\wwwroot\\js\\tracker.js",
+      "PackagePath": "staticwebassets\\js\\tracker.js"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.FlightTrackerAPI.Microsoft.AspNetCore.StaticWebAssetEndpoints.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssetEndpoints.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.FlightTrackerAPI.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.build.FlightTrackerAPI.props",
+      "PackagePath": "build\\FlightTrackerAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildMultiTargeting.FlightTrackerAPI.props",
+      "PackagePath": "buildMultiTargeting\\FlightTrackerAPI.props"
+    },
+    {
+      "Id": "obj\\Debug\\net9.0\\staticwebassets\\msbuild.buildTransitive.FlightTrackerAPI.props",
+      "PackagePath": "buildTransitive\\FlightTrackerAPI.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

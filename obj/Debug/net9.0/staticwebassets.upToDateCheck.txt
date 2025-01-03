@@ -1,0 +1,11 @@
+C:\Users\pansa\source\repos\FlightTrackerAPI\FlightTrackerAPI\wwwroot\js\tracker.js
+C:\Users\pansa\source\repos\FlightTrackerAPI\FlightTrackerAPI\wwwroot\css\styles.css
+C:\Users\pansa\source\repos\FlightTrackerAPI\FlightTrackerAPI\wwwroot\js\map.js
+C:\Users\pansa\source\repos\FlightTrackerAPI\FlightTrackerAPI\wwwroot\index.html
+wwwroot\css\styles.css
+wwwroot\images\aircraft\DEFAULT.png
+wwwroot\images\plane-icon.png
+wwwroot\images\plane-selected.png
+wwwroot\index.html
+wwwroot\js\map.js
+wwwroot\js\tracker.js
